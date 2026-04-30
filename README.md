@@ -59,9 +59,10 @@ Se utilizaron tres conjuntos de datos:
 - Boxplots para detectar outliers
 - Comparaciones entre segmentos
 
-
-https://cnt-a8802cf5-c6a7-433b-93c1-596ec62c757d.containerhub.tripleten-services.com/notebooks/S7%20Version-Estudiante-Project-ConnectaTel.ipynb
 ### 5. Insights & Recommendations
 - Interpretación de resultados
 - Identificación de oportunidades de negocio
 - Propuestas de mejora en planes y retención
+
+
+https://cnt-a8802cf5-c6a7-433b-93c1-596ec62c757d.containerhub.tripleten-services.com/notebooks/S7%20Version-Estudiante-Project-ConnectaTel.ipynb
