@@ -56,6 +56,8 @@ Se utilizaron tres conjuntos de datos:
 
 ### 4. Data Visualization
 - Gráficas de distribución
+
+https://cnt-a8802cf5-c6a7-433b-93c1-596ec62c757d.containerhub.tripleten-services.com/notebooks/S7%20Version-Estudiante-Project-ConnectaTel.ipynb 
 - Boxplots para detectar outliers
 - Comparaciones entre segmentos
 
